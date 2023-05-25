@@ -1,0 +1,1 @@
+Ceci est un descriptif du fichier feature2.txt
